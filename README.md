@@ -1,7 +1,7 @@
 # Hi there, I'm Gorang Singhal 👋
 
 <div align="center">
-  <h3>Software Engineer | Enterprise AI & System Architecture | Low-RAM C++ Inference Engines</h3>
+  <h3>Software Engineer in Progress | Aspiring AI & System Architect | Working on Low-RAM C++ Inference Engines</h3>
   <p><i>"Code that isn't tested is broken. Absolute data integrity is non-negotiable."</i></p>
 </div>
 
@@ -67,9 +67,6 @@ I am an engineer focused on building **production-ready, data-intensive systems*
 
 ---
 
-<div align="center">
-  📫 **Let's Connect:** [LinkedIn] | [Portfolio] | [Email]
-</div>
 <br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GorangSinghal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
