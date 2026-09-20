@@ -15,6 +15,7 @@ I am an engineer focused on building **production-ready, data-intensive systems*
   - *Architecture:* Dual-pipeline Strategy Pattern with `.gguf` SLM fallbacks.
   - *Security:* 100% air-gapped capability to prevent PII leakage.
   - *Testing:* Un-mocked PyTest Integration Suite against a 100-image Golden Matrix.
+## 🚀 Contributing to Open Source
 - ⚡ **[SipLLM](https://github.com/ankit1057/sipllm):** A dependency-free streaming GGUF LLM inference engine in C++17.
   - *Memory Optimization:* Engineered to run heavy, quantized LLMs natively in severely constrained, low-RAM edge environments.
   - *Bare-Metal Architecture:* Strict C++17 architecture with zero external bloat, ensuring maximum execution speed without Python overhead.
